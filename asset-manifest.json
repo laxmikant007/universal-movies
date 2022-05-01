@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/universal-movies/static/css/main.70a47c26.css",
+    "main.js": "/universal-movies/static/js/main.607c1906.js",
+    "static/js/787.74c1de7f.chunk.js": "/universal-movies/static/js/787.74c1de7f.chunk.js",
+    "index.html": "/universal-movies/index.html",
+    "main.70a47c26.css.map": "/universal-movies/static/css/main.70a47c26.css.map",
+    "main.607c1906.js.map": "/universal-movies/static/js/main.607c1906.js.map",
+    "787.74c1de7f.chunk.js.map": "/universal-movies/static/js/787.74c1de7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70a47c26.css",
+    "static/js/main.607c1906.js"
+  ]
+}
